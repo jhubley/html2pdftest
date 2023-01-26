@@ -1,0 +1,14 @@
+- add legends for dot maps
+
+county pages to do
+-------------------
+X map should stretch to bounding box (could still use a little work, but mostly there/much better, adjust bbox svg container width)
+- hover on dots on county map - include population, type
+- add legend for map dots
+
+misc
+----
+- correct A11y stuff
+- tooltips
+- endnotes (tooltips) - made superscript, need to add tooltip w/ info
+- format bar chart labels (M, etc.)
